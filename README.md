@@ -2,12 +2,22 @@
 
 ## Project setup
 ```
+cd backend
+npm install
+cd ../frontend
 npm install
 ```
 
 ### Compiles and hot-reloads for development
+frontend 
+
 ```
 npm run serve
+```
+
+backend
+```
+npm run dev
 ```
 
 ### Compiles and minifies for production
