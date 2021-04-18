@@ -1,7 +1,24 @@
 # BRTC Merchants
 
-The project for the BRTC Merchants rework.
+## Project setup
+```
+npm install
+```
 
-## Overview
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-Not much yet!
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
